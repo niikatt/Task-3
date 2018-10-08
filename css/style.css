@@ -16,16 +16,6 @@
 }
 .navigation{
 	margin-left: 30px;
-
-}
-.banner-section{
-
-}
-.navigation-ul{
-
-}
-.navigation-li{
-
 }
 .navigation-a{
 	padding-top: 7.5px;
@@ -33,6 +23,7 @@
 	display: inline-block;
 	text-decoration: none;
 	font-style: bold;
+	font-family: "ninoBold"
 	/*border: 10px solid red;*/
 }
 .banner-section{
@@ -52,12 +43,14 @@
 .paragraph{
 	margin-top: 30px;
 	margin-bottom: 65px;
+	font-family: "ingiriarial";
 }
 .article-image{
 	margin-top: 30px;
 }
 .article-header{
 	margin-top: 10px;
+	font-family: "ninoBold", serif;
 }
 /*footer*/
 .display-inline-block{
@@ -65,15 +58,6 @@
 }
 .social-footer{
 	margin-left: 30px;
-}
-.social-ul{
-
-}
-.social-li{
-
-}
-.social-a{
-
 }
 .divider{
 	height: 30px;
